@@ -1,0 +1,289 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	0.0.0	//
+$(VERBOSE).SILENT	Chapter 3/Makefile	/^$(VERBOSE).SILENT:$/;"	t
+$(VERBOSE).SILENT	Chapter 4/Makefile	/^$(VERBOSE).SILENT:$/;"	t
+$(VERBOSE)MAKESILENT	Chapter 3/Makefile	/^$(VERBOSE)MAKESILENT = -s$/;"	m
+$(VERBOSE)MAKESILENT	Chapter 4/Makefile	/^$(VERBOSE)MAKESILENT = -s$/;"	m
+%	Chapter 3/Makefile	/^% : %,v$/;"	t
+%	Chapter 3/Makefile	/^% : RCS\/%$/;"	t
+%	Chapter 3/Makefile	/^% : RCS\/%,v$/;"	t
+%	Chapter 3/Makefile	/^% : SCCS\/s.%$/;"	t
+%	Chapter 3/Makefile	/^% : s.%$/;"	t
+%	Chapter 4/Makefile	/^% : %,v$/;"	t
+%	Chapter 4/Makefile	/^% : RCS\/%$/;"	t
+%	Chapter 4/Makefile	/^% : RCS\/%,v$/;"	t
+%	Chapter 4/Makefile	/^% : SCCS\/s.%$/;"	t
+%	Chapter 4/Makefile	/^% : s.%$/;"	t
+ARCHITECTURE_ID	Chapter 3/CMakeFiles/3.19.2/CompilerIdC/CMakeCCompilerId.c	/^#   define ARCHITECTURE_ID /;"	d	file:
+ARCHITECTURE_ID	Chapter 3/CMakeFiles/3.19.2/CompilerIdC/CMakeCCompilerId.c	/^#  define ARCHITECTURE_ID /;"	d	file:
+ARCHITECTURE_ID	Chapter 3/CMakeFiles/3.19.2/CompilerIdC/CMakeCCompilerId.c	/^#  define ARCHITECTURE_ID$/;"	d	file:
+ARCHITECTURE_ID	Chapter 3/CMakeFiles/3.19.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#   define ARCHITECTURE_ID /;"	d	file:
+ARCHITECTURE_ID	Chapter 3/CMakeFiles/3.19.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define ARCHITECTURE_ID /;"	d	file:
+ARCHITECTURE_ID	Chapter 3/CMakeFiles/3.19.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define ARCHITECTURE_ID$/;"	d	file:
+ARCHITECTURE_ID	Chapter 4/CMakeFiles/3.19.2/CompilerIdC/CMakeCCompilerId.c	/^#   define ARCHITECTURE_ID /;"	d	file:
+ARCHITECTURE_ID	Chapter 4/CMakeFiles/3.19.2/CompilerIdC/CMakeCCompilerId.c	/^#  define ARCHITECTURE_ID /;"	d	file:
+ARCHITECTURE_ID	Chapter 4/CMakeFiles/3.19.2/CompilerIdC/CMakeCCompilerId.c	/^#  define ARCHITECTURE_ID$/;"	d	file:
+ARCHITECTURE_ID	Chapter 4/CMakeFiles/3.19.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#   define ARCHITECTURE_ID /;"	d	file:
+ARCHITECTURE_ID	Chapter 4/CMakeFiles/3.19.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define ARCHITECTURE_ID /;"	d	file:
+ARCHITECTURE_ID	Chapter 4/CMakeFiles/3.19.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define ARCHITECTURE_ID$/;"	d	file:
+AbstractDisplay	Chapter 3/AbstractDisplay.h	/^class AbstractDisplay {$/;"	c
+AbstractFactory	Chapter 4/AbstractFactory.h	/^class AbstractFactory{$/;"	c
+AbstractProduct	Chapter 4/AbstractFactory.h	/^class AbstractProduct{$/;"	c
+CMAKE_BINARY_DIR	Chapter 3/Makefile	/^CMAKE_BINARY_DIR = "\/workspace\/document\/code snippets\/cpp\/图解设计模式\/Chapter 3"$/;"	m
+CMAKE_BINARY_DIR	Chapter 4/Makefile	/^CMAKE_BINARY_DIR = "\/workspace\/document\/code snippets\/cpp\/图解设计模式\/Chapter 4"$/;"	m
+CMAKE_COMMAND	Chapter 3/Makefile	/^CMAKE_COMMAND = \/usr\/local\/bin\/cmake$/;"	m
+CMAKE_COMMAND	Chapter 4/Makefile	/^CMAKE_COMMAND = \/usr\/local\/bin\/cmake$/;"	m
+CMAKE_SOURCE_DIR	Chapter 3/Makefile	/^CMAKE_SOURCE_DIR = "\/workspace\/document\/code snippets\/cpp\/图解设计模式\/Chapter 3"$/;"	m
+CMAKE_SOURCE_DIR	Chapter 4/Makefile	/^CMAKE_SOURCE_DIR = "\/workspace\/document\/code snippets\/cpp\/图解设计模式\/Chapter 4"$/;"	m
+COMPILER_ID	Chapter 3/CMakeFiles/3.19.2/CompilerIdC/CMakeCCompilerId.c	/^# define COMPILER_ID /;"	d	file:
+COMPILER_ID	Chapter 3/CMakeFiles/3.19.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^# define COMPILER_ID /;"	d	file:
+COMPILER_ID	Chapter 4/CMakeFiles/3.19.2/CompilerIdC/CMakeCCompilerId.c	/^# define COMPILER_ID /;"	d	file:
+COMPILER_ID	Chapter 4/CMakeFiles/3.19.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^# define COMPILER_ID /;"	d	file:
+COMPILER_VERSION_INTERNAL	Chapter 3/CMakeFiles/3.19.2/CompilerIdC/CMakeCCompilerId.c	/^#  define COMPILER_VERSION_INTERNAL /;"	d	file:
+COMPILER_VERSION_INTERNAL	Chapter 3/CMakeFiles/3.19.2/CompilerIdC/CMakeCCompilerId.c	/^# define COMPILER_VERSION_INTERNAL /;"	d	file:
+COMPILER_VERSION_INTERNAL	Chapter 3/CMakeFiles/3.19.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define COMPILER_VERSION_INTERNAL /;"	d	file:
+COMPILER_VERSION_INTERNAL	Chapter 3/CMakeFiles/3.19.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^# define COMPILER_VERSION_INTERNAL /;"	d	file:
+COMPILER_VERSION_INTERNAL	Chapter 4/CMakeFiles/3.19.2/CompilerIdC/CMakeCCompilerId.c	/^#  define COMPILER_VERSION_INTERNAL /;"	d	file:
+COMPILER_VERSION_INTERNAL	Chapter 4/CMakeFiles/3.19.2/CompilerIdC/CMakeCCompilerId.c	/^# define COMPILER_VERSION_INTERNAL /;"	d	file:
+COMPILER_VERSION_INTERNAL	Chapter 4/CMakeFiles/3.19.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define COMPILER_VERSION_INTERNAL /;"	d	file:
+COMPILER_VERSION_INTERNAL	Chapter 4/CMakeFiles/3.19.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^# define COMPILER_VERSION_INTERNAL /;"	d	file:
+COMPILER_VERSION_MAJOR	Chapter 3/CMakeFiles/3.19.2/CompilerIdC/CMakeCCompilerId.c	/^  # define COMPILER_VERSION_MAJOR /;"	d	file:
+COMPILER_VERSION_MAJOR	Chapter 3/CMakeFiles/3.19.2/CompilerIdC/CMakeCCompilerId.c	/^#  define COMPILER_VERSION_MAJOR /;"	d	file:
+COMPILER_VERSION_MAJOR	Chapter 3/CMakeFiles/3.19.2/CompilerIdC/CMakeCCompilerId.c	/^# define COMPILER_VERSION_MAJOR /;"	d	file:
+COMPILER_VERSION_MAJOR	Chapter 3/CMakeFiles/3.19.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^  # define COMPILER_VERSION_MAJOR /;"	d	file:
+COMPILER_VERSION_MAJOR	Chapter 3/CMakeFiles/3.19.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define COMPILER_VERSION_MAJOR /;"	d	file:
+COMPILER_VERSION_MAJOR	Chapter 3/CMakeFiles/3.19.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^# define COMPILER_VERSION_MAJOR /;"	d	file:
+COMPILER_VERSION_MAJOR	Chapter 4/CMakeFiles/3.19.2/CompilerIdC/CMakeCCompilerId.c	/^  # define COMPILER_VERSION_MAJOR /;"	d	file:
+COMPILER_VERSION_MAJOR	Chapter 4/CMakeFiles/3.19.2/CompilerIdC/CMakeCCompilerId.c	/^#  define COMPILER_VERSION_MAJOR /;"	d	file:
+COMPILER_VERSION_MAJOR	Chapter 4/CMakeFiles/3.19.2/CompilerIdC/CMakeCCompilerId.c	/^# define COMPILER_VERSION_MAJOR /;"	d	file:
+COMPILER_VERSION_MAJOR	Chapter 4/CMakeFiles/3.19.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^  # define COMPILER_VERSION_MAJOR /;"	d	file:
+COMPILER_VERSION_MAJOR	Chapter 4/CMakeFiles/3.19.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define COMPILER_VERSION_MAJOR /;"	d	file:
+COMPILER_VERSION_MAJOR	Chapter 4/CMakeFiles/3.19.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^# define COMPILER_VERSION_MAJOR /;"	d	file:
+COMPILER_VERSION_MINOR	Chapter 3/CMakeFiles/3.19.2/CompilerIdC/CMakeCCompilerId.c	/^  # define COMPILER_VERSION_MINOR /;"	d	file:
+COMPILER_VERSION_MINOR	Chapter 3/CMakeFiles/3.19.2/CompilerIdC/CMakeCCompilerId.c	/^#  define COMPILER_VERSION_MINOR /;"	d	file:
+COMPILER_VERSION_MINOR	Chapter 3/CMakeFiles/3.19.2/CompilerIdC/CMakeCCompilerId.c	/^# define COMPILER_VERSION_MINOR /;"	d	file:
+COMPILER_VERSION_MINOR	Chapter 3/CMakeFiles/3.19.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^  # define COMPILER_VERSION_MINOR /;"	d	file:
+COMPILER_VERSION_MINOR	Chapter 3/CMakeFiles/3.19.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define COMPILER_VERSION_MINOR /;"	d	file:
+COMPILER_VERSION_MINOR	Chapter 3/CMakeFiles/3.19.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^# define COMPILER_VERSION_MINOR /;"	d	file:
+COMPILER_VERSION_MINOR	Chapter 4/CMakeFiles/3.19.2/CompilerIdC/CMakeCCompilerId.c	/^  # define COMPILER_VERSION_MINOR /;"	d	file:
+COMPILER_VERSION_MINOR	Chapter 4/CMakeFiles/3.19.2/CompilerIdC/CMakeCCompilerId.c	/^#  define COMPILER_VERSION_MINOR /;"	d	file:
+COMPILER_VERSION_MINOR	Chapter 4/CMakeFiles/3.19.2/CompilerIdC/CMakeCCompilerId.c	/^# define COMPILER_VERSION_MINOR /;"	d	file:
+COMPILER_VERSION_MINOR	Chapter 4/CMakeFiles/3.19.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^  # define COMPILER_VERSION_MINOR /;"	d	file:
+COMPILER_VERSION_MINOR	Chapter 4/CMakeFiles/3.19.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define COMPILER_VERSION_MINOR /;"	d	file:
+COMPILER_VERSION_MINOR	Chapter 4/CMakeFiles/3.19.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^# define COMPILER_VERSION_MINOR /;"	d	file:
+COMPILER_VERSION_PATCH	Chapter 3/CMakeFiles/3.19.2/CompilerIdC/CMakeCCompilerId.c	/^  # define COMPILER_VERSION_PATCH /;"	d	file:
+COMPILER_VERSION_PATCH	Chapter 3/CMakeFiles/3.19.2/CompilerIdC/CMakeCCompilerId.c	/^#   define COMPILER_VERSION_PATCH /;"	d	file:
+COMPILER_VERSION_PATCH	Chapter 3/CMakeFiles/3.19.2/CompilerIdC/CMakeCCompilerId.c	/^#  define COMPILER_VERSION_PATCH /;"	d	file:
+COMPILER_VERSION_PATCH	Chapter 3/CMakeFiles/3.19.2/CompilerIdC/CMakeCCompilerId.c	/^# define COMPILER_VERSION_PATCH /;"	d	file:
+COMPILER_VERSION_PATCH	Chapter 3/CMakeFiles/3.19.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^  # define COMPILER_VERSION_PATCH /;"	d	file:
+COMPILER_VERSION_PATCH	Chapter 3/CMakeFiles/3.19.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#   define COMPILER_VERSION_PATCH /;"	d	file:
+COMPILER_VERSION_PATCH	Chapter 3/CMakeFiles/3.19.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define COMPILER_VERSION_PATCH /;"	d	file:
+COMPILER_VERSION_PATCH	Chapter 3/CMakeFiles/3.19.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^# define COMPILER_VERSION_PATCH /;"	d	file:
+COMPILER_VERSION_PATCH	Chapter 4/CMakeFiles/3.19.2/CompilerIdC/CMakeCCompilerId.c	/^  # define COMPILER_VERSION_PATCH /;"	d	file:
+COMPILER_VERSION_PATCH	Chapter 4/CMakeFiles/3.19.2/CompilerIdC/CMakeCCompilerId.c	/^#   define COMPILER_VERSION_PATCH /;"	d	file:
+COMPILER_VERSION_PATCH	Chapter 4/CMakeFiles/3.19.2/CompilerIdC/CMakeCCompilerId.c	/^#  define COMPILER_VERSION_PATCH /;"	d	file:
+COMPILER_VERSION_PATCH	Chapter 4/CMakeFiles/3.19.2/CompilerIdC/CMakeCCompilerId.c	/^# define COMPILER_VERSION_PATCH /;"	d	file:
+COMPILER_VERSION_PATCH	Chapter 4/CMakeFiles/3.19.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^  # define COMPILER_VERSION_PATCH /;"	d	file:
+COMPILER_VERSION_PATCH	Chapter 4/CMakeFiles/3.19.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#   define COMPILER_VERSION_PATCH /;"	d	file:
+COMPILER_VERSION_PATCH	Chapter 4/CMakeFiles/3.19.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define COMPILER_VERSION_PATCH /;"	d	file:
+COMPILER_VERSION_PATCH	Chapter 4/CMakeFiles/3.19.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^# define COMPILER_VERSION_PATCH /;"	d	file:
+COMPILER_VERSION_TWEAK	Chapter 3/CMakeFiles/3.19.2/CompilerIdC/CMakeCCompilerId.c	/^#  define COMPILER_VERSION_TWEAK /;"	d	file:
+COMPILER_VERSION_TWEAK	Chapter 3/CMakeFiles/3.19.2/CompilerIdC/CMakeCCompilerId.c	/^# define COMPILER_VERSION_TWEAK /;"	d	file:
+COMPILER_VERSION_TWEAK	Chapter 3/CMakeFiles/3.19.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define COMPILER_VERSION_TWEAK /;"	d	file:
+COMPILER_VERSION_TWEAK	Chapter 3/CMakeFiles/3.19.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^# define COMPILER_VERSION_TWEAK /;"	d	file:
+COMPILER_VERSION_TWEAK	Chapter 4/CMakeFiles/3.19.2/CompilerIdC/CMakeCCompilerId.c	/^#  define COMPILER_VERSION_TWEAK /;"	d	file:
+COMPILER_VERSION_TWEAK	Chapter 4/CMakeFiles/3.19.2/CompilerIdC/CMakeCCompilerId.c	/^# define COMPILER_VERSION_TWEAK /;"	d	file:
+COMPILER_VERSION_TWEAK	Chapter 4/CMakeFiles/3.19.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define COMPILER_VERSION_TWEAK /;"	d	file:
+COMPILER_VERSION_TWEAK	Chapter 4/CMakeFiles/3.19.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^# define COMPILER_VERSION_TWEAK /;"	d	file:
+CXX_STD	Chapter 3/CMakeFiles/3.19.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#      define CXX_STD /;"	d	file:
+CXX_STD	Chapter 3/CMakeFiles/3.19.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#    define CXX_STD /;"	d	file:
+CXX_STD	Chapter 3/CMakeFiles/3.19.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define CXX_STD /;"	d	file:
+CXX_STD	Chapter 4/CMakeFiles/3.19.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#      define CXX_STD /;"	d	file:
+CXX_STD	Chapter 4/CMakeFiles/3.19.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#    define CXX_STD /;"	d	file:
+CXX_STD	Chapter 4/CMakeFiles/3.19.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define CXX_STD /;"	d	file:
+C_DIALECT	Chapter 3/CMakeFiles/3.19.2/CompilerIdC/CMakeCCompilerId.c	/^#  define C_DIALECT /;"	d	file:
+C_DIALECT	Chapter 3/CMakeFiles/3.19.2/CompilerIdC/CMakeCCompilerId.c	/^#  define C_DIALECT$/;"	d	file:
+C_DIALECT	Chapter 3/CMakeFiles/3.19.2/CompilerIdC/CMakeCCompilerId.c	/^# define C_DIALECT /;"	d	file:
+C_DIALECT	Chapter 4/CMakeFiles/3.19.2/CompilerIdC/CMakeCCompilerId.c	/^#  define C_DIALECT /;"	d	file:
+C_DIALECT	Chapter 4/CMakeFiles/3.19.2/CompilerIdC/CMakeCCompilerId.c	/^#  define C_DIALECT$/;"	d	file:
+C_DIALECT	Chapter 4/CMakeFiles/3.19.2/CompilerIdC/CMakeCCompilerId.c	/^# define C_DIALECT /;"	d	file:
+CharDisplay	Chapter 3/AbstractDisplay.h	/^	CharDisplay(char ch) {$/;"	f	class:CharDisplay
+CharDisplay	Chapter 3/AbstractDisplay.h	/^class CharDisplay : public AbstractDisplay {$/;"	c
+DEC	Chapter 3/CMakeFiles/3.19.2/CompilerIdC/CMakeCCompilerId.c	/^#define DEC(/;"	d	file:
+DEC	Chapter 3/CMakeFiles/3.19.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#define DEC(/;"	d	file:
+DEC	Chapter 4/CMakeFiles/3.19.2/CompilerIdC/CMakeCCompilerId.c	/^#define DEC(/;"	d	file:
+DEC	Chapter 4/CMakeFiles/3.19.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#define DEC(/;"	d	file:
+EQUALS	Chapter 3/Makefile	/^EQUALS = =$/;"	m
+EQUALS	Chapter 4/Makefile	/^EQUALS = =$/;"	m
+HEX	Chapter 3/CMakeFiles/3.19.2/CompilerIdC/CMakeCCompilerId.c	/^#define HEX(/;"	d	file:
+HEX	Chapter 3/CMakeFiles/3.19.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#define HEX(/;"	d	file:
+HEX	Chapter 4/CMakeFiles/3.19.2/CompilerIdC/CMakeCCompilerId.c	/^#define HEX(/;"	d	file:
+HEX	Chapter 4/CMakeFiles/3.19.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#define HEX(/;"	d	file:
+IDCard	Chapter 4/AbstractFactory.h	/^	IDCard(String& owner) : owner(owner){$/;"	f	class:IDCard
+IDCard	Chapter 4/AbstractFactory.h	/^class IDCard : public AbstractProduct{$/;"	c
+IDCardFactory	Chapter 4/AbstractFactory.h	/^class IDCardFactory : public AbstractFactory{$/;"	c
+ID_VOID_MAIN	Chapter 3/CMakeFiles/3.19.2/CompilerIdC/CMakeCCompilerId.c	/^# define ID_VOID_MAIN$/;"	d	file:
+ID_VOID_MAIN	Chapter 4/CMakeFiles/3.19.2/CompilerIdC/CMakeCCompilerId.c	/^# define ID_VOID_MAIN$/;"	d	file:
+PLATFORM_ID	Chapter 3/CMakeFiles/3.19.2/CompilerIdC/CMakeCCompilerId.c	/^#  define PLATFORM_ID /;"	d	file:
+PLATFORM_ID	Chapter 3/CMakeFiles/3.19.2/CompilerIdC/CMakeCCompilerId.c	/^#  define PLATFORM_ID$/;"	d	file:
+PLATFORM_ID	Chapter 3/CMakeFiles/3.19.2/CompilerIdC/CMakeCCompilerId.c	/^# define PLATFORM_ID /;"	d	file:
+PLATFORM_ID	Chapter 3/CMakeFiles/3.19.2/CompilerIdC/CMakeCCompilerId.c	/^# define PLATFORM_ID$/;"	d	file:
+PLATFORM_ID	Chapter 3/CMakeFiles/3.19.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define PLATFORM_ID /;"	d	file:
+PLATFORM_ID	Chapter 3/CMakeFiles/3.19.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define PLATFORM_ID$/;"	d	file:
+PLATFORM_ID	Chapter 3/CMakeFiles/3.19.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^# define PLATFORM_ID /;"	d	file:
+PLATFORM_ID	Chapter 3/CMakeFiles/3.19.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^# define PLATFORM_ID$/;"	d	file:
+PLATFORM_ID	Chapter 4/CMakeFiles/3.19.2/CompilerIdC/CMakeCCompilerId.c	/^#  define PLATFORM_ID /;"	d	file:
+PLATFORM_ID	Chapter 4/CMakeFiles/3.19.2/CompilerIdC/CMakeCCompilerId.c	/^#  define PLATFORM_ID$/;"	d	file:
+PLATFORM_ID	Chapter 4/CMakeFiles/3.19.2/CompilerIdC/CMakeCCompilerId.c	/^# define PLATFORM_ID /;"	d	file:
+PLATFORM_ID	Chapter 4/CMakeFiles/3.19.2/CompilerIdC/CMakeCCompilerId.c	/^# define PLATFORM_ID$/;"	d	file:
+PLATFORM_ID	Chapter 4/CMakeFiles/3.19.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define PLATFORM_ID /;"	d	file:
+PLATFORM_ID	Chapter 4/CMakeFiles/3.19.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define PLATFORM_ID$/;"	d	file:
+PLATFORM_ID	Chapter 4/CMakeFiles/3.19.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^# define PLATFORM_ID /;"	d	file:
+PLATFORM_ID	Chapter 4/CMakeFiles/3.19.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^# define PLATFORM_ID$/;"	d	file:
+RM	Chapter 3/Makefile	/^RM = \/usr\/local\/bin\/cmake -E rm -f$/;"	m
+RM	Chapter 4/Makefile	/^RM = \/usr\/local\/bin\/cmake -E rm -f$/;"	m
+SHELL	Chapter 3/Makefile	/^SHELL = \/bin\/sh$/;"	m
+SHELL	Chapter 4/Makefile	/^SHELL = \/bin\/sh$/;"	m
+SIMULATE_ID	Chapter 3/CMakeFiles/3.19.2/CompilerIdC/CMakeCCompilerId.c	/^#  define SIMULATE_ID /;"	d	file:
+SIMULATE_ID	Chapter 3/CMakeFiles/3.19.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define SIMULATE_ID /;"	d	file:
+SIMULATE_ID	Chapter 4/CMakeFiles/3.19.2/CompilerIdC/CMakeCCompilerId.c	/^#  define SIMULATE_ID /;"	d	file:
+SIMULATE_ID	Chapter 4/CMakeFiles/3.19.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define SIMULATE_ID /;"	d	file:
+SIMULATE_VERSION_MAJOR	Chapter 3/CMakeFiles/3.19.2/CompilerIdC/CMakeCCompilerId.c	/^#  define SIMULATE_VERSION_MAJOR /;"	d	file:
+SIMULATE_VERSION_MAJOR	Chapter 3/CMakeFiles/3.19.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define SIMULATE_VERSION_MAJOR /;"	d	file:
+SIMULATE_VERSION_MAJOR	Chapter 4/CMakeFiles/3.19.2/CompilerIdC/CMakeCCompilerId.c	/^#  define SIMULATE_VERSION_MAJOR /;"	d	file:
+SIMULATE_VERSION_MAJOR	Chapter 4/CMakeFiles/3.19.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define SIMULATE_VERSION_MAJOR /;"	d	file:
+SIMULATE_VERSION_MINOR	Chapter 3/CMakeFiles/3.19.2/CompilerIdC/CMakeCCompilerId.c	/^#  define SIMULATE_VERSION_MINOR /;"	d	file:
+SIMULATE_VERSION_MINOR	Chapter 3/CMakeFiles/3.19.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define SIMULATE_VERSION_MINOR /;"	d	file:
+SIMULATE_VERSION_MINOR	Chapter 4/CMakeFiles/3.19.2/CompilerIdC/CMakeCCompilerId.c	/^#  define SIMULATE_VERSION_MINOR /;"	d	file:
+SIMULATE_VERSION_MINOR	Chapter 4/CMakeFiles/3.19.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define SIMULATE_VERSION_MINOR /;"	d	file:
+SIMULATE_VERSION_PATCH	Chapter 3/CMakeFiles/3.19.2/CompilerIdC/CMakeCCompilerId.c	/^#  define SIMULATE_VERSION_PATCH /;"	d	file:
+SIMULATE_VERSION_PATCH	Chapter 3/CMakeFiles/3.19.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define SIMULATE_VERSION_PATCH /;"	d	file:
+SIMULATE_VERSION_PATCH	Chapter 4/CMakeFiles/3.19.2/CompilerIdC/CMakeCCompilerId.c	/^#  define SIMULATE_VERSION_PATCH /;"	d	file:
+SIMULATE_VERSION_PATCH	Chapter 4/CMakeFiles/3.19.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define SIMULATE_VERSION_PATCH /;"	d	file:
+STRINGIFY	Chapter 3/CMakeFiles/3.19.2/CompilerIdC/CMakeCCompilerId.c	/^#define STRINGIFY(/;"	d	file:
+STRINGIFY	Chapter 3/CMakeFiles/3.19.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#define STRINGIFY(/;"	d	file:
+STRINGIFY	Chapter 4/CMakeFiles/3.19.2/CompilerIdC/CMakeCCompilerId.c	/^#define STRINGIFY(/;"	d	file:
+STRINGIFY	Chapter 4/CMakeFiles/3.19.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#define STRINGIFY(/;"	d	file:
+STRINGIFY_HELPER	Chapter 3/CMakeFiles/3.19.2/CompilerIdC/CMakeCCompilerId.c	/^#define STRINGIFY_HELPER(/;"	d	file:
+STRINGIFY_HELPER	Chapter 3/CMakeFiles/3.19.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#define STRINGIFY_HELPER(/;"	d	file:
+STRINGIFY_HELPER	Chapter 4/CMakeFiles/3.19.2/CompilerIdC/CMakeCCompilerId.c	/^#define STRINGIFY_HELPER(/;"	d	file:
+STRINGIFY_HELPER	Chapter 4/CMakeFiles/3.19.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#define STRINGIFY_HELPER(/;"	d	file:
+StringDisplay	Chapter 3/AbstractDisplay.h	/^	StringDisplay(std::string str) {$/;"	f	class:StringDisplay
+StringDisplay	Chapter 3/AbstractDisplay.h	/^class StringDisplay : public AbstractDisplay {$/;"	c
+all	Chapter 3/Makefile	/^all: cmake_check_build_system$/;"	t
+all	Chapter 4/Makefile	/^all: cmake_check_build_system$/;"	t
+ch	Chapter 3/AbstractDisplay.h	/^	char ch;$/;"	m	class:CharDisplay	typeref:typename:char
+clean	Chapter 3/Makefile	/^clean:$/;"	t
+clean	Chapter 4/Makefile	/^clean:$/;"	t
+clean/fast	Chapter 3/Makefile	/^clean\/fast: clean$/;"	t
+clean/fast	Chapter 4/Makefile	/^clean\/fast: clean$/;"	t
+close	Chapter 3/AbstractDisplay.h	/^	void close() {$/;"	f	class:CharDisplay	typeref:typename:void
+close	Chapter 3/AbstractDisplay.h	/^	void close() {$/;"	f	class:StringDisplay	typeref:typename:void
+cmake_check_build_system	Chapter 3/Makefile	/^cmake_check_build_system:$/;"	t
+cmake_check_build_system	Chapter 4/Makefile	/^cmake_check_build_system:$/;"	t
+cmake_force	Chapter 3/Makefile	/^cmake_force:$/;"	t
+cmake_force	Chapter 4/Makefile	/^cmake_force:$/;"	t
+const	Chapter 3/CMakeFiles/3.19.2/CompilerIdC/CMakeCCompilerId.c	/^# define const$/;"	d	file:
+const	Chapter 4/CMakeFiles/3.19.2/CompilerIdC/CMakeCCompilerId.c	/^# define const$/;"	d	file:
+create	Chapter 4/AbstractFactory.h	/^	AbstractProduct *create(String& owner){$/;"	f	class:AbstractFactory	typeref:typename:AbstractProduct *
+createProduct	Chapter 4/AbstractFactory.h	/^	AbstractProduct *createProduct(String& owner){$/;"	f	class:IDCardFactory	typeref:typename:AbstractProduct *
+default_target	Chapter 3/Makefile	/^default_target: all$/;"	t
+default_target	Chapter 4/Makefile	/^default_target: all$/;"	t
+depend	Chapter 3/Makefile	/^depend:$/;"	t
+depend	Chapter 4/Makefile	/^depend:$/;"	t
+display	Chapter 3/AbstractDisplay.h	/^	void display() {$/;"	f	class:AbstractDisplay	typeref:typename:void
+edit_cache	Chapter 3/Makefile	/^edit_cache:$/;"	t
+edit_cache	Chapter 4/Makefile	/^edit_cache:$/;"	t
+edit_cache/fast	Chapter 3/Makefile	/^edit_cache\/fast: edit_cache$/;"	t
+edit_cache/fast	Chapter 4/Makefile	/^edit_cache\/fast: edit_cache$/;"	t
+getOwner	Chapter 4/AbstractFactory.h	/^	String getOwner(){$/;"	f	class:IDCard	typeref:typename:String
+help	Chapter 3/Makefile	/^help:$/;"	t
+help	Chapter 4/Makefile	/^help:$/;"	t
+info_arch	Chapter 3/CMakeFiles/3.19.2/CompilerIdC/CMakeCCompilerId.c	/^char const* info_arch = "INFO" ":" "arch[" ARCHITECTURE_ID "]";$/;"	v	typeref:typename:char const *
+info_arch	Chapter 3/CMakeFiles/3.19.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_arch = "INFO" ":" "arch[" ARCHITECTURE_ID "]";$/;"	v	typeref:typename:char const *
+info_arch	Chapter 4/CMakeFiles/3.19.2/CompilerIdC/CMakeCCompilerId.c	/^char const* info_arch = "INFO" ":" "arch[" ARCHITECTURE_ID "]";$/;"	v	typeref:typename:char const *
+info_arch	Chapter 4/CMakeFiles/3.19.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_arch = "INFO" ":" "arch[" ARCHITECTURE_ID "]";$/;"	v	typeref:typename:char const *
+info_compiler	Chapter 3/CMakeFiles/3.19.2/CompilerIdC/CMakeCCompilerId.c	/^char const* info_compiler = "INFO" ":" "compiler[" COMPILER_ID "]";$/;"	v	typeref:typename:char const *
+info_compiler	Chapter 3/CMakeFiles/3.19.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_compiler = "INFO" ":" "compiler[" COMPILER_ID "]";$/;"	v	typeref:typename:char const *
+info_compiler	Chapter 4/CMakeFiles/3.19.2/CompilerIdC/CMakeCCompilerId.c	/^char const* info_compiler = "INFO" ":" "compiler[" COMPILER_ID "]";$/;"	v	typeref:typename:char const *
+info_compiler	Chapter 4/CMakeFiles/3.19.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_compiler = "INFO" ":" "compiler[" COMPILER_ID "]";$/;"	v	typeref:typename:char const *
+info_cray	Chapter 3/CMakeFiles/3.19.2/CompilerIdC/CMakeCCompilerId.c	/^char const *info_cray = "INFO" ":" "compiler_wrapper[CrayPrgEnv]";$/;"	v	typeref:typename:char const *
+info_cray	Chapter 3/CMakeFiles/3.19.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const *info_cray = "INFO" ":" "compiler_wrapper[CrayPrgEnv]";$/;"	v	typeref:typename:char const *
+info_cray	Chapter 4/CMakeFiles/3.19.2/CompilerIdC/CMakeCCompilerId.c	/^char const *info_cray = "INFO" ":" "compiler_wrapper[CrayPrgEnv]";$/;"	v	typeref:typename:char const *
+info_cray	Chapter 4/CMakeFiles/3.19.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const *info_cray = "INFO" ":" "compiler_wrapper[CrayPrgEnv]";$/;"	v	typeref:typename:char const *
+info_language_dialect_default	Chapter 3/CMakeFiles/3.19.2/CompilerIdC/CMakeCCompilerId.c	/^const char* info_language_dialect_default =$/;"	v	typeref:typename:const char *
+info_language_dialect_default	Chapter 3/CMakeFiles/3.19.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^const char* info_language_dialect_default = "INFO" ":" "dialect_default["$/;"	v	typeref:typename:const char *
+info_language_dialect_default	Chapter 4/CMakeFiles/3.19.2/CompilerIdC/CMakeCCompilerId.c	/^const char* info_language_dialect_default =$/;"	v	typeref:typename:const char *
+info_language_dialect_default	Chapter 4/CMakeFiles/3.19.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^const char* info_language_dialect_default = "INFO" ":" "dialect_default["$/;"	v	typeref:typename:const char *
+info_platform	Chapter 3/CMakeFiles/3.19.2/CompilerIdC/CMakeCCompilerId.c	/^char const* info_platform = "INFO" ":" "platform[" PLATFORM_ID "]";$/;"	v	typeref:typename:char const *
+info_platform	Chapter 3/CMakeFiles/3.19.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_platform = "INFO" ":" "platform[" PLATFORM_ID "]";$/;"	v	typeref:typename:char const *
+info_platform	Chapter 4/CMakeFiles/3.19.2/CompilerIdC/CMakeCCompilerId.c	/^char const* info_platform = "INFO" ":" "platform[" PLATFORM_ID "]";$/;"	v	typeref:typename:char const *
+info_platform	Chapter 4/CMakeFiles/3.19.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_platform = "INFO" ":" "platform[" PLATFORM_ID "]";$/;"	v	typeref:typename:char const *
+info_simulate	Chapter 3/CMakeFiles/3.19.2/CompilerIdC/CMakeCCompilerId.c	/^char const* info_simulate = "INFO" ":" "simulate[" SIMULATE_ID "]";$/;"	v	typeref:typename:char const *
+info_simulate	Chapter 3/CMakeFiles/3.19.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_simulate = "INFO" ":" "simulate[" SIMULATE_ID "]";$/;"	v	typeref:typename:char const *
+info_simulate	Chapter 4/CMakeFiles/3.19.2/CompilerIdC/CMakeCCompilerId.c	/^char const* info_simulate = "INFO" ":" "simulate[" SIMULATE_ID "]";$/;"	v	typeref:typename:char const *
+info_simulate	Chapter 4/CMakeFiles/3.19.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_simulate = "INFO" ":" "simulate[" SIMULATE_ID "]";$/;"	v	typeref:typename:char const *
+info_simulate_version	Chapter 3/CMakeFiles/3.19.2/CompilerIdC/CMakeCCompilerId.c	/^char const info_simulate_version[] = {$/;"	v	typeref:typename:char const[]
+info_simulate_version	Chapter 3/CMakeFiles/3.19.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const info_simulate_version[] = {$/;"	v	typeref:typename:char const[]
+info_simulate_version	Chapter 4/CMakeFiles/3.19.2/CompilerIdC/CMakeCCompilerId.c	/^char const info_simulate_version[] = {$/;"	v	typeref:typename:char const[]
+info_simulate_version	Chapter 4/CMakeFiles/3.19.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const info_simulate_version[] = {$/;"	v	typeref:typename:char const[]
+info_version	Chapter 3/CMakeFiles/3.19.2/CompilerIdC/CMakeCCompilerId.c	/^char const info_version[] = {$/;"	v	typeref:typename:char const[]
+info_version	Chapter 3/CMakeFiles/3.19.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const info_version[] = {$/;"	v	typeref:typename:char const[]
+info_version	Chapter 4/CMakeFiles/3.19.2/CompilerIdC/CMakeCCompilerId.c	/^char const info_version[] = {$/;"	v	typeref:typename:char const[]
+info_version	Chapter 4/CMakeFiles/3.19.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const info_version[] = {$/;"	v	typeref:typename:char const[]
+info_version_internal	Chapter 3/CMakeFiles/3.19.2/CompilerIdC/CMakeCCompilerId.c	/^char const info_version_internal[] = {$/;"	v	typeref:typename:char const[]
+info_version_internal	Chapter 3/CMakeFiles/3.19.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const info_version_internal[] = {$/;"	v	typeref:typename:char const[]
+info_version_internal	Chapter 4/CMakeFiles/3.19.2/CompilerIdC/CMakeCCompilerId.c	/^char const info_version_internal[] = {$/;"	v	typeref:typename:char const[]
+info_version_internal	Chapter 4/CMakeFiles/3.19.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const info_version_internal[] = {$/;"	v	typeref:typename:char const[]
+main	Chapter 3/CMakeFiles/3.19.2/CompilerIdC/CMakeCCompilerId.c	/^int main(argc, argv) int argc; char *argv[];$/;"	f
+main	Chapter 3/CMakeFiles/3.19.2/CompilerIdC/CMakeCCompilerId.c	/^void main() {}$/;"	f	typeref:typename:void
+main	Chapter 3/CMakeFiles/3.19.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^int main(int argc, char* argv[])$/;"	f	typeref:typename:int
+main	Chapter 3/main.cpp	/^int main(void){$/;"	f	typeref:typename:int
+main	Chapter 4/CMakeFiles/3.19.2/CompilerIdC/CMakeCCompilerId.c	/^int main(argc, argv) int argc; char *argv[];$/;"	f
+main	Chapter 4/CMakeFiles/3.19.2/CompilerIdC/CMakeCCompilerId.c	/^void main() {}$/;"	f	typeref:typename:void
+main	Chapter 4/CMakeFiles/3.19.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^int main(int argc, char* argv[])$/;"	f	typeref:typename:int
+main	Chapter 4/main.cpp	/^int main(void){$/;"	f	typeref:typename:int
+main.cpp.i	Chapter 3/Makefile	/^main.cpp.i:$/;"	t
+main.cpp.i	Chapter 4/Makefile	/^main.cpp.i:$/;"	t
+main.cpp.o	Chapter 3/Makefile	/^main.cpp.o:$/;"	t
+main.cpp.o	Chapter 4/Makefile	/^main.cpp.o:$/;"	t
+main.cpp.s	Chapter 3/Makefile	/^main.cpp.s:$/;"	t
+main.cpp.s	Chapter 4/Makefile	/^main.cpp.s:$/;"	t
+main.i	Chapter 3/Makefile	/^main.i: main.cpp.i$/;"	t
+main.i	Chapter 4/Makefile	/^main.i: main.cpp.i$/;"	t
+main.o	Chapter 3/Makefile	/^main.o: main.cpp.o$/;"	t
+main.o	Chapter 4/Makefile	/^main.o: main.cpp.o$/;"	t
+main.s	Chapter 3/Makefile	/^main.s: main.cpp.s$/;"	t
+main.s	Chapter 4/Makefile	/^main.s: main.cpp.s$/;"	t
+open	Chapter 3/AbstractDisplay.h	/^	void open() {$/;"	f	class:CharDisplay	typeref:typename:void
+open	Chapter 3/AbstractDisplay.h	/^	void open() {$/;"	f	class:StringDisplay	typeref:typename:void
+owner	Chapter 4/AbstractFactory.h	/^	String owner;$/;"	m	class:IDCard	typeref:typename:String
+preinstall	Chapter 3/Makefile	/^preinstall: all$/;"	t
+preinstall	Chapter 4/Makefile	/^preinstall: all$/;"	t
+preinstall/fast	Chapter 3/Makefile	/^preinstall\/fast:$/;"	t
+preinstall/fast	Chapter 4/Makefile	/^preinstall\/fast:$/;"	t
+print	Chapter 3/AbstractDisplay.h	/^	void print() {$/;"	f	class:CharDisplay	typeref:typename:void
+print	Chapter 3/AbstractDisplay.h	/^	void print() {$/;"	f	class:StringDisplay	typeref:typename:void
+printLine	Chapter 3/AbstractDisplay.h	/^	void printLine() {$/;"	f	class:StringDisplay	typeref:typename:void
+qnxnto	Chapter 3/CMakeFiles/3.19.2/CompilerIdC/CMakeCCompilerId.c	/^char const* qnxnto = "INFO" ":" "qnxnto[]";$/;"	v	typeref:typename:char const *
+qnxnto	Chapter 3/CMakeFiles/3.19.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* qnxnto = "INFO" ":" "qnxnto[]";$/;"	v	typeref:typename:char const *
+qnxnto	Chapter 4/CMakeFiles/3.19.2/CompilerIdC/CMakeCCompilerId.c	/^char const* qnxnto = "INFO" ":" "qnxnto[]";$/;"	v	typeref:typename:char const *
+qnxnto	Chapter 4/CMakeFiles/3.19.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* qnxnto = "INFO" ":" "qnxnto[]";$/;"	v	typeref:typename:char const *
+rebuild_cache	Chapter 3/Makefile	/^rebuild_cache:$/;"	t
+rebuild_cache	Chapter 4/Makefile	/^rebuild_cache:$/;"	t
+rebuild_cache/fast	Chapter 3/Makefile	/^rebuild_cache\/fast: rebuild_cache$/;"	t
+rebuild_cache/fast	Chapter 4/Makefile	/^rebuild_cache\/fast: rebuild_cache$/;"	t
+registerProduct	Chapter 4/AbstractFactory.h	/^	void registerProduct(AbstractProduct *product){$/;"	f	class:IDCardFactory	typeref:typename:void
+str	Chapter 3/AbstractDisplay.h	/^	std::string str;$/;"	m	class:StringDisplay	typeref:typename:std::string
+test	Chapter 3/Makefile	/^test: cmake_check_build_system$/;"	t
+test	Chapter 4/Makefile	/^test: cmake_check_build_system$/;"	t
+test/fast	Chapter 3/Makefile	/^test\/fast:$/;"	t
+test/fast	Chapter 4/Makefile	/^test\/fast:$/;"	t
+use	Chapter 4/AbstractFactory.h	/^	void use(){$/;"	f	class:IDCard	typeref:typename:void
+volatile	Chapter 3/CMakeFiles/3.19.2/CompilerIdC/CMakeCCompilerId.c	/^# define volatile$/;"	d	file:
+volatile	Chapter 4/CMakeFiles/3.19.2/CompilerIdC/CMakeCCompilerId.c	/^# define volatile$/;"	d	file:
